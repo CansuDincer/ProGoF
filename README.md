@@ -1,13 +1,5 @@
----
-title: "ProGoF"
-author: "Cansu Dincer"
-date: "20/05/2021"
-output: html_document
----
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# ProGoF
 
 ProGoF is Python-based script collection that can be run to analyse target-disease association data from Open Targets Platform and to annotate them through [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar/), [PanelApp](https://panelapp.genomicsengland.co.uk/) and [Sequence Ontology](http://www.sequenceontology.org/) databases for interested list of genes.
 
