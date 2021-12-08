@@ -63,3 +63,21 @@ Files including statistics will be created for representing total number of targ
 It is a product of PhD rotation study of Cansu Dincer under the supervision of [Dr Gosia Trynka](https://www.sanger.ac.uk/person/trynka-gosia/), [Dr Ian Dunham](https://www.ebi.ac.uk/about/people/ian-dunham) and Dr Mohd Karim from Open Targets, Wellcome Sanger Institute and European Bioinformatics Institute. 
 
 For any problems or feedback on ProGoF, you can contact [here](mailto:cd7@sanger.ac.uk).
+
+### Terms and Conditions
+
+Copyright (c) 2021 Genome Research Ltd.
+Author: Cansu Dincer cd7@sanger.ac.uk
+
+This program is free software: you can redistribute it and/or modify it under 
+the terms of the GNU General Public License as published by the Free Software 
+Foundation; either version 3 of the License, or (at your option) any later 
+version. 
+
+This program is distributed in the hope that it will be useful, but WITHOUT 
+ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS 
+FOR A PARTICULAR PURPOSE. See the GNU General Public License for more 
+details. 
+
+You should have received a copy of the GNU General Public License along with 
+this program. If not, see <http://www.gnu.org/licenses/>. 
