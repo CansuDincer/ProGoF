@@ -67,6 +67,7 @@ For any problems or feedback on ProGoF, you can contact [here](mailto:cd7@sanger
 ### Terms and Conditions
 
 Copyright (c) 2021 Genome Research Ltd.
+
 Author: Cansu Dincer cd7@sanger.ac.uk
 
 This program is free software: you can redistribute it and/or modify it under 
